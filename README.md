@@ -9,5 +9,5 @@ https://www.youtube.com/watch?v=vsXMMT2CqqE&t=
 https://www.youtube.com/watch?v=NF1pwjL9-DE
 
 #todo
-[X] Need to complete Nodejs
-[] Need to study react
+- [X] Need to complete Nodejs
+- [] Need to study react
