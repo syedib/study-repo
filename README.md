@@ -30,5 +30,10 @@ https://www.youtube.com/watch?v=NF1pwjL9-DE
 - docker build -t username/image-id .: to build image
 - docker exec -it containerId sh: to get shell command line inside container
 
-# Interview preparation link
-[Github](https://github.com/jwasham/coding-interview-university)
+# Interview preparation
+<details>
+	<summary>important links</summary>
+	- [Github jwasham](https://github.com/jwasham/coding-interview-university)
+	- [Quora 500 Problem sets](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+	
+<details/>
