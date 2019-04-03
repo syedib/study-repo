@@ -15,10 +15,8 @@ https://www.youtube.com/watch?v=NF1pwjL9-DE
 - [ ] Algorithm and datstructure
 - [ ] System design
 
-# Docker commands
-## Switch to minikube docker-server to get status about dockers
-eval $(minikube docker-env)
-
+# Docker and kubernets commands
+- eval $(minikube docker-env): to switch to minikube docker env
 - docker ps: to list out docker currently running containers
 - docker ps -a: to list out all container
 - minikube docker-env: to get details about minikube docker environment
