@@ -33,6 +33,6 @@ https://www.youtube.com/watch?v=NF1pwjL9-DE
 # Interview preparation
 <details>
 <summary>important links</summary>
-* [Github jwasham](https://github.com/jwasham/coding-interview-university)
-* [Quora 500 Problem sets](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+[Github jwasham](https://github.com/jwasham/coding-interview-university)
+[Quora 500 Problem sets](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 </details>
